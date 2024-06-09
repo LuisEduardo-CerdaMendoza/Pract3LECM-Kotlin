@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppKotlin</string>
+    <string name="ingrese_su_nombre">INGRESE SU NOMBRE</string>
+    <string name="saludo">SALUDO</string>
+    <string name="medida_de_ancho">MEDIDA DE ANCHO</string>
+    <string name="medida_de_largo">MEDIDA DE LARGO</string>
+    <string name="precio_por_metro">PRECIO POR METRO</string>
+    <string name="calcular_venta">CALCULAR VENTA</string>
+</resources>
